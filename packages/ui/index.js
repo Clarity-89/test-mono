@@ -1,3 +1,3 @@
-export const uiFunc = () => {
+export const uiFuncs = () => {
     return 'uis'
 }
