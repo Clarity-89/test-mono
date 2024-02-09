@@ -8,7 +8,8 @@
   "npmClient": "yarn",
   "command": {
     "version": {
-      "ignore": "icons"
+      "ignore": "icons",
+      "ignoreChanges": ["packages/icons/**"]
     },
     "publish": {
       "ignore": "icons"
