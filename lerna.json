@@ -5,5 +5,13 @@
     "packages/*",
     "/packages/!(icons)/**"
   ],
-  "npmClient": "yarn"
+  "npmClient": "yarn",
+  "command": {
+    "version": {
+      "ignore": "icons"
+    },
+    "publish": {
+      "ignore": "icons"
+    }
+  }
 }
