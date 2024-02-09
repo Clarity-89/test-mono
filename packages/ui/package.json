@@ -1,6 +1,6 @@
 {
   "name": "ui",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "icons": "^1.1.0",
-    "utils": "^2.0.0"
+    "utils": "^2.0.1"
   }
 }
