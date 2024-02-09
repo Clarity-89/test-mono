@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "packages": [
     "packages/*",
-    "/packages/!(icons)/**"
+    "packages/!(icons)/**"
   ],
   "npmClient": "yarn",
   "command": {
