@@ -1,3 +1,3 @@
 export const uiFunc = () => {
-    return 'ui'
+    return 'uis'
 }

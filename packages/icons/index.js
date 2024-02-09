@@ -1,3 +1,3 @@
 export const testFunc = () => {
-    return 'icons'
+    return 'icon'
 }

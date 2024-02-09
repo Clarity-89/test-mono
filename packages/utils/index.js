@@ -1,3 +1,3 @@
 export const util = () => {
-    return 'util'
+    return 'utils'
 }
