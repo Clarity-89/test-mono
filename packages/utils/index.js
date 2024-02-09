@@ -1,3 +1,3 @@
-export const utils = () => {
-    return 'utils'
-}
+export const initUtils = () => {
+  return "utils";
+};

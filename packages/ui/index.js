@@ -1,3 +1,6 @@
-export const uiFuncs = () => {
-    return 'uis'
-}
+import { initIcons } from "icons";
+
+export const uiLibInit = () => {
+  initIcons();
+  return "uis";
+};

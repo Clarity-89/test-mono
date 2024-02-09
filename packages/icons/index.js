@@ -1,3 +1,3 @@
-export const testFunc = () => {
-    return 'icon'
+export const initIcons = () => {
+    return 'icons'
 }
