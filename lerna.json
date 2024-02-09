@@ -8,11 +8,10 @@
   "npmClient": "yarn",
   "command": {
     "version": {
-      "ignore": "icons",
-      "ignoreChanges": ["packages/icons/**"]
+      "ignoreChanges": ["icons"]
     },
     "publish": {
-      "ignore": "icons"
+      "ignoreChanges": ["icons"]
     }
   }
 }
